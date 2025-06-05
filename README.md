@@ -1,7 +1,7 @@
 # README.md
 <div id="header" align="center">
   <h1>༒︎ Федорова Алена ༒︎</h1>
-  <h2>3й курс Петровского колледжа</h2>
+  <h2>Петровский колледж - 3 курс</h2>
   <h3>Frontend Developer</h3>
 </div>
 
@@ -16,7 +16,6 @@
 
 ### Обо мне
 - ✧ в данный момент изучаю **Веб-разработку: HTML, CSS, JS, C#**
-- ✧ C2 English
 - ✧ Связь со мной: [Telegram](https://t.me/blvdesgrxve), [email](mailto:neendtochno@gmail.com)
 
 ### Languages and tools
