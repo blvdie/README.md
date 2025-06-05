@@ -1,4 +1,3 @@
-# README.md
 <div id="header" align="center">
   <h1>༒︎ Федорова Алена ༒︎</h1>
   <h2>Петровский колледж - 3 курс</h2>
